@@ -13,7 +13,7 @@ Please create the following files:
 Create a link tag for your CSS stylesheet in your html document. Conduct a Sanity Check for your CSS and have it approved by an instructor.
 
 ## HTML
-1. Create a header containing the name of your vided streamer using a **header** tag.
+1. Create a header containing the name of your video streamer using a **header** tag.
 
 2. Create a container for all of your videos using a **div** tag and set the value of the id attribute to `container`
 
