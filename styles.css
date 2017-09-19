@@ -1,3 +1,10 @@
 body {
 	background-image: url("https://img00.deviantart.net/1246/i/2011/233/c/d/cosmic_wallpaper_by_janmartendesign-d47by06.png");
 } 
+.thumbnail {
+height: 400px;
+width: 500px;
+}
+.TitleText {
+	color: #8c7e7e;
+}
